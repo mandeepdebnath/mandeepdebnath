@@ -6,7 +6,7 @@
 <!-- - 💬 Ask me about ... -->
 - 🌱 I’m currently learning React Hooks
 - 👯 I’m looking to collaborate on Frontend projects or open source projects
-- 📫 How to reach me: Connect with me on [Linkedin](https://www.linkedin.com/in/mandeepdebnath/)
+- 📫 How to reach me: Connect with me on [Twitter](https://www.twitter.com/in/mannndeee)
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: I'm a cinephile and a melomaniac
 
