@@ -2,10 +2,10 @@
 
 
 <!-- - 🔭 I’m currently working on ... -->
-- 🌱 I’m currently learning React Hooks
-- 👯 I’m looking to collaborate on Frontend projects or open source projects
 <!-- - 🤔 I’m looking for help with  -->
 <!-- - 💬 Ask me about ... -->
+- 🌱 I’m currently learning React Hooks
+- 👯 I’m looking to collaborate on Frontend projects or open source projects
 - 📫 How to reach me: Connect with me on [Linkedin](https://www.linkedin.com/in/mandeepdebnath/)
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: I'm a cinephile and a melomaniac
