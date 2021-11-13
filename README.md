@@ -10,4 +10,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[![Mandeep's github stats](https://github-readme-stats.vercel.app/api?username=mandeepdebnath&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+[![Mandeep's github stats](https://github-readme-stats.vercel.app/api?username=mandeepdebnath&count_private=true&show_icons=true&theme=nord&hide_rank=false)]
+
+
+<!-- (https://github.com/anuraghazra/github-readme-stats) -->
