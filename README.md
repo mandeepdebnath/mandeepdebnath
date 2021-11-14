@@ -5,7 +5,7 @@
 <!-- - 🤔 I’m looking for help with  -->
 <!-- - 💬 Ask me about ... -->
 - 🌱 I’m currently learning React Hooks
-- 👯 I’m looking to collaborate on Frontend projects or open source projects
+- 👯 I’m looking to collaborate on Frontend or open source projects
 - 📫 How to reach me: Connect with me on [Twitter](https://www.twitter.com/in/mannndeee)
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: I'm a cinephile and a melomaniac
