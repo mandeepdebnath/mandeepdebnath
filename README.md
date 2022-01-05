@@ -15,7 +15,6 @@
 [![Mandeep's github stats](https://github-readme-stats.vercel.app/api?username=mandeepdebnath&count_private=true&show_icons=true&theme=nord&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mandeepdebnath&repo=portfolio&show_icons=true&theme=nord)](https://github.com/mandeepdebnath/portfolio)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mandeepdebnath&repo=google-search-clone&show_icons=true&theme=nord)](https://github.com/mandeepdebnath/google-search-clone)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mandeepdebnath&repo=netflix-clone&show_icons=true&theme=nord)](https://github.com/mandeepdebnath/netflix-clone)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mandeepdebnath&repo=movies-finder&show_icons=true&theme=nord)](https://github.com/mandeepdebnath/movies-finder)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mandeepdebnath&repo=todo-app&show_icons=true&theme=nord)](https://github.com/mandeepdebnath/todo-app)
