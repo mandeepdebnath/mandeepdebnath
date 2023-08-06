@@ -11,7 +11,7 @@
 - ⚡ Fun fact: I'm a cinephile and a melomaniac
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mandeepdebnath&repo=portfolio&show_icons=true&theme=nord)]((https://github.com/mandeepdebnath/sales-analysis-power-bi-project))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mandeepdebnath&repo=portfolio&show_icons=true&theme=nord)](https://github.com/mandeepdebnath/sales-analysis-power-bi-project)
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mandeepdebnath&repo=portfolio&show_icons=true&theme=nord)](https://github.com/mandeepdebnath/kosmikimagery)
